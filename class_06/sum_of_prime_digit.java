@@ -1,3 +1,7 @@
+// Q. WAP to find the sum of all prime digits of a given number N.
+//    Prime digits are: 2, 3, 5, 7
+//    Example: N = 12345 → Prime digits: 2, 3, 5 → Output: 10
+
 public class sum_of_prime_digit {
     public static void main(String[] args) {
         int n = 12345;

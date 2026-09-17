@@ -1,3 +1,6 @@
+// Q. WAP to check whether a given number N is a Palindrome or not.
+//    A Palindrome number reads the same forwards and backwards.
+//    Example: N = 121 → Reverse = 121 → Palindrome
 
 public class check_palindrome {
     public static void main(String[] args) {

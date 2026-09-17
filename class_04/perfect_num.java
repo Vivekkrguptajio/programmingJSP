@@ -1,3 +1,7 @@
+// Q. WAP to check whether a given number N is a Perfect Number or not.
+//    A Perfect Number is a number whose sum of proper divisors equals the number itself.
+//    Example: N = 6 → Divisors: 1+2+3 = 6 → Perfect Number
+
 public class perfect_num {
     public static void main(String[] args) {
         int n =14;

@@ -1,3 +1,6 @@
+// Q. WAP to reverse the digits of a given number N, using a separate method.
+//    Example: N = 1234 → Output: 4321
+
 public class reverse_digit {
     public static void main(String[] args) {
         

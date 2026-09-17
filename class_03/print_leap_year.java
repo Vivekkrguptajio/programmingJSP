@@ -1,3 +1,6 @@
+// Q. WAP to check whether a given year is a Leap Year or Not.
+//    Example: Year = 2012 → Output: Leap Year
+
 package class_03;
 public class print_leap_year {
     public static void main(String[] args) {

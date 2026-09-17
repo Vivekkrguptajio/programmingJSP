@@ -1,3 +1,7 @@
+// Q. WAP to check whether a given number N is a Strong Number or not.
+//    A Strong Number is a number whose sum of factorial of each digit equals the number itself.
+//    Example: N = 145 → 1! + 4! + 5! = 1 + 24 + 120 = 145 → Strong Number
+
 public class Strrong_Number {
     public static void main(String[] args) {
         

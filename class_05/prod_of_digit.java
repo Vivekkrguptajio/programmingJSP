@@ -1,3 +1,6 @@
+// Q. WAP to find the product of all digits of a given number N, using a separate method.
+//    Example: N = 1234 → Output: 24  (1×2×3×4)
+
 public class prod_of_digit {
 
     public static void main(String[] args) {

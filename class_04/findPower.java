@@ -1,3 +1,5 @@
+// Q. WAP to find the power of a number (a^b) without using Math.pow(), using a separate method.
+//    Example: a = 5, b = 2 → Output: 25
 
 public class findPower {
     public static void main(String[] args) {

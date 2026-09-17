@@ -1,3 +1,5 @@
+// Q. WAP to count the total number of odd digits in a given number N, using a separate method.
+//    Example: N = 12345 → Odd digits: 1, 3, 5 → Output: 3
 
 public class count_of_odd_digit {
     public static void main(String[] args) {

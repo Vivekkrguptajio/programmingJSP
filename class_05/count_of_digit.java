@@ -1,3 +1,6 @@
+// Q. WAP to count the total number of digits in a given number N, using a separate method.
+//    Example: N = 1234 → Output: 4
+
 public class count_of_digit {
     public static void main(String[] args) {
         int n = 1234;
