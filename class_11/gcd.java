@@ -1,4 +1,10 @@
-
+/**
+ * Question: Write a Java program to find the Greatest Common Divisor (GCD) of two numbers.
+ * 
+ * Example:
+ * Input: a = 8, b = 12
+ * Output: 4
+ */
 public class gcd {
     public static void main(String[] args) {
         

@@ -1,4 +1,10 @@
-
+/**
+ * Question: Write a Java program to convert a given decimal number into its hexadecimal equivalent.
+ * 
+ * Example:
+ * Input: 895
+ * Output: 37F
+ */
 public class hexademial {
     public static void main(String[] args) {
         int n = 895;

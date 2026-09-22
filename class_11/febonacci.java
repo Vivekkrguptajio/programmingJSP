@@ -1,4 +1,10 @@
-//febonacci 0 1 1 2 3 5 8 13
+/**
+ * Question: Write a Java program to print the Fibonacci series up to N terms.
+ * 
+ * Example:
+ * Input: 10
+ * Output: 0 1 1 2 3 5 8 13 21 34
+ */
 public class febonacci {
     public static void main(String[] args) {
         int n = 10;

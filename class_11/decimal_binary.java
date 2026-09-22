@@ -1,3 +1,10 @@
+/**
+ * Question: Write a Java program to convert a given decimal number into its binary equivalent.
+ * 
+ * Example:
+ * Input: 8
+ * Output: 1000
+ */
 public class decimal_binary {
     public static void main(String[] args) {
         int n = 8;
