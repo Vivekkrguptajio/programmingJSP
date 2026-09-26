@@ -7,7 +7,7 @@ public class print_leap_year {
         
         int year = 2012;
 
-        if(year%400 ==0 || (year%4==0 && year%100==0)){
+        if(year%400 ==0 || (year%4==0 && year%100!=0)){
             System.out.println("Leap Year : " +year);
         }else{
             System.out.println("Not Leap Year : "+year);
