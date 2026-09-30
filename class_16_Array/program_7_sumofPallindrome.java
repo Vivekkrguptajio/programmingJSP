@@ -9,7 +9,7 @@
  *              Sum = 11 + 22 + 99 + 66 + 7 + 88 + 44 = 337
  */
 
-public class p7_sumofPallindrome {
+public class program_7_sumofPallindrome {
     public static void main(String[] args) {
         int arr [] = {11,22,12,99,54,66,7,88,44,23};
         int sum =0;
