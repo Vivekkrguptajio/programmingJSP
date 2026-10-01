@@ -3,7 +3,8 @@
 // A B C 
 // a b c d 
 // A B C D E 
-// public class p6 {
+
+public class p6 {
     public static void main(String[] args) {
         int n =5;
        for (int i = 1; i <= n; i++) {

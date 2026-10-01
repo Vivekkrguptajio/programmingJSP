@@ -20,7 +20,7 @@ public class p7 {
         int n = 4;
         int cnt = 2;
 
-        for (int i = 1; i <= 4; i++) {
+        for (int i = 1; i <= n; i++) {
             int j = 1;
             while (j <= i) {
                 if (isPrime(cnt)) {
